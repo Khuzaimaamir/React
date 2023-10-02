@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Hannah Rabinowitz",
+    "title": "Attorney General Merrick Garland makes unannounced trip to Ukraine - CNN",
+    "description": "Attorney General Merrick Garland made an unannounced trip to Ukraine on Friday, according to a Justice Department official, his second trip to the country after Russia invaded a little more than a year ago.",
+    "url": "https://www.cnn.com/2023/03/03/politics/merrick-garland-ukraine/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230303142252-merrick-garland-lviv-ukraine-030323.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-03-03T19:57:00Z",
+    "content": "Attorney General Merrick Garland made an unannounced trip to Ukraine on Friday, according to a Justice Department official, his second trip to the country after Russia invaded a little more than a ye… [+2772 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Janelle Chavez",
+    "title": "Long Covid is associated with significantly increased risk of death, heart and lung problems, study finds - CNN",
+    "description": "As the nation anticipates the end of the Covid-19 public health emergency, new research is showing that some groups are still feeling the long-term impacts of the disease. In the year following infection, individuals who experience long Covid are at high risk…",
+    "url": "https://www.cnn.com/2023/03/03/health/long-covid-health-consequences/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230217122318-01-long-covid-workforce-issues-disability-stock.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-03-03T16:02:00Z",
+    "content": "As the nation anticipates the end of the Covid-19 public health emergency, new research is showing that some groups are still feeling the long-term impacts of the disease. In the year following infec… [+3463 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Nicki Brown, Travis Caldwell",
+    "title": "East Palestine residents voice frustrations, frequently interrupt train company official at tense town hall - CNN",
+    "description": "Angry residents repeatedly interrupted a railroad company official at a contentious town hall in East Palestine, Ohio, on Thursday, with questions and concerns regarding cleanup efforts at the site of a toxic train derailment nearly one month ago.",
+    "url": "https://www.cnn.com/2023/03/03/us/ohio-train-derailment-east-palestine-friday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230303021114-02-east-palestine-oh-town-hall-030223.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-03-03T15:18:00Z",
+    "content": "Angry residents repeatedly interrupted a railroad company official at a contentious town hall in East Palestine, Ohio, on Thursday, with questions and concerns regarding cleanup efforts at the site o… [+7887 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jessie Yeung, Manveena Suri",
+    "title": "The Ukraine war sends message to 'aggressors everywhere,' says Blinken at Quad meeting - CNN",
+    "description": "Moscow's invasion of Ukraine, and the support flooding in to Kyiv from countries across the world, sends a powerful message to \"would be aggressors everywhere,\" US Secretary of State Antony Blinken said Friday during a panel discussion in New Delhi.",
+    "url": "https://www.cnn.com/2023/03/03/asia/blinken-quad-g20-ukraine-china-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230303143934-blinken-0303.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-03-03T14:28:00Z",
+    "content": "Moscows invasion of Ukraine, and the support flooding in to Kyiv from countries across the world, sends a powerful message to would be aggressors everywhere, US Secretary of State Antony Blinken said… [+3969 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Brian Lowry",
+    "title": "'Daisy Jones & the Six' turns a fictional band into a four-star soap opera - CNN",
+    "description": "As soap operas set against the world of sex, drugs and rock 'n' roll go, \"Daisy Jones & the Six\" is a by-no-means groundbreaking but still-enjoyable account of the best band that never existed, charting its meteoric rise and just-as-abrupt fall. Credit that i…",
+    "url": "https://www.cnn.com/2023/03/03/entertainment/daisy-jones-and-the-six-review/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230126133226-01-riley-keough-daisy-jones.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-03-03T13:19:00Z",
+    "content": "As soap operas set against the world of sex, drugs and rock n roll go, Daisy Jones &amp; the Six is a by-no-means groundbreaking but still-enjoyable account of the best band that never existed, chart… [+2965 chars]"
+    }
+    ]
+    }
